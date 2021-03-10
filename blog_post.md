@@ -23,6 +23,7 @@ At T3ch Flicks, we couldn’t Lunar New Year pass by without putting a little te
 * [3D Printed Parts](https://www.thingiverse.com/thing:4125557)
 
 * [3D Printer](https://amzn.to/2RTU64m)
+> # [🔗 Get The Levitating Chinese Lantern Files On Github 📔](https://github.com/sk-t3ch/levitating-chinese-lantern)
 
 ## Tutorial
 
@@ -83,6 +84,7 @@ We also 3D printed a base piece to cover the magnetic levitation module and tran
 So now, if we power everything up…you see the beautiful lantern float! ACTUAL REAL LIFE LEVITATION!!
 
 ![](https://cdn-images-1.medium.com/max/3840/1*MvrqbDRaKF28wk235glfSw.png)
+> # [🔗 Get The Levitating Chinese Lantern Files On Github 📔](https://github.com/sk-t3ch/levitating-chinese-lantern)
 
 ## Thanks For Reading
 
